@@ -1,0 +1,74 @@
+[
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": 39999000,
+    "description": "Flagship mới nhất từ Apple với chip A17 Bionic và thiết kế Titanium.",
+    "brand": "Apple",
+    "stock": 10,
+    "imageUrl": "https://shopdunk.com/images/thumbs/0028099_titan-xanh.png"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 29999000,
+    "description": "Điện thoại cao cấp từ Samsung với bút S Pen và camera 200MP.",
+    "brand": "Samsung",
+    "stock": 15,
+    "imageUrl": "https://cdn.hoanghamobile.com/i/previewV2/Uploads/2024/03/29/samsung-galaxy-s23-ultra.png"
+  },
+  {
+    "name": "Xiaomi 13 Pro",
+    "price": 19999000,
+    "description": "Chip Snapdragon 8 Gen 2 với hệ thống camera Leica.",
+    "brand": "Xiaomi",
+    "stock": 20,
+    "imageUrl": "https://img4.dhresource.com/webp/m/0x0/f3/albu/ry/n/27/8506bbf8-f7a6-4a3e-ac9f-47d275c8e00d.jpg"
+  },
+  {
+    "name": "OPPO Find X6 Pro",
+    "price": 25999000,
+    "description": "Flagship từ OPPO với màn hình AMOLED và camera Hasselblad.",
+    "brand": "OPPO",
+    "stock": 8,
+    "imageUrl": "https://s.alicdn.com/@sc04/kf/H398edf3b9c1a40218a7b910f2d736559K.jpg_720x720q50.jpg"
+  },
+  {
+    "name": "Vivo X90 Pro",
+    "price": 22999000,
+    "description": "Camera ZEISS và chip Dimensity 9200 mạnh mẽ.",
+    "brand": "Vivo",
+    "stock": 12,
+    "imageUrl": "https://img4.dhresource.com/webp/m/0x0/f3/albu/ry/s/29/cd8fd31e-96e8-46be-bc64-b6ad9a403515.jpg"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "price": 24999000,
+    "description": "Điện thoại từ Google với Android thuần và camera AI vượt trội.",
+    "brand": "Google",
+    "stock": 7,
+    "imageUrl": "https://sonpixel.vn/wp-content/uploads/2024/01/Pixel-8-pro-trang-su.png"
+  },
+  {
+    "name": "Realme GT Neo 5",
+    "price": 13999000,
+    "description": "Sạc nhanh 240W và hiệu năng vượt trội.",
+    "brand": "Realme",
+    "stock": 25,
+    "imageUrl": "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/y/01/eadc3485-0e53-4856-a1b0-b96fb1778da5.jpg"
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "price": 29999000,
+    "description": "Phiên bản tiền nhiệm với Dynamic Island và chip A16 Bionic.",
+    "brand": "Apple",
+    "stock": 18,
+    "imageUrl": "https://zshop.vn/images/thumbnails/1357/1000/detailed/104/iphone-14-pro-finish-select-202209-6-1inch-deeppurple.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 40999000,
+    "description": "Điện thoại gập với màn hình lớn và hiệu năng hàng đầu.",
+    "brand": "Samsung",
+    "stock": 5,
+    "imageUrl": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/o/09/651f4828-a833-4ee4-a5a1-bea1ef597da5.jpg"
+  }
+]
